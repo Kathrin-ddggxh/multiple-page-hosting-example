@@ -1,0 +1,33 @@
+body {
+  background-color: rgb(213, 215, 247);
+}
+
+h1 {
+  margin-top: 50px;
+}
+
+h1,
+p {
+  text-align: center;
+}
+
+p {
+  margin: 20px 80px;
+}
+
+.nav-links a {
+  margin: 0 20px;
+  color: rgb(34, 1, 94);
+}
+
+img {
+  min-width: 500px;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
+
+.nav-links {
+  text-align: center;
+  margin-top: 32px;
+}
